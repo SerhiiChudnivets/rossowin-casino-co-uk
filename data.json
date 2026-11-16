@@ -125,23 +125,23 @@
       "id": 167,
       "title": "Login",
       "slug": "login",
-      "content": "",
-      "seoTitle": "",
-      "seoDescription": "",
-      "htmlHead": "<link rel=\"canonical\" href=\"https://rossowin-casino.co.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"RossoWin Casino | Online Slots, Live Casino & Sports Betting\">\n<meta property=\"og:description\" content=\"Explore RossoWin Casino with thousands of slots, live dealer games and sports betting. Discover a €1,000,000 jackpot prize pool, tournaments and Early Payout.\">\n<meta property=\"og:url\" content=\"https://rossowin-casino.co.uk/\">\n<meta property=\"og:site_name\" content= \"RossoWin Casino\">",
+      "content": "<p>Log in to RossoWin Casino to return to your favourite slots, sports betting and gaming balance. Once signed in, you'll have access to your personal profile, transaction history, active bets and other account features.</p><p>Use the details you provided during registration to access your account. If you've forgotten your password or are having trouble signing in, you can recover access. We also have identity verification and security measures in place to protect your personal information and financial transactions.</p><h2>How to Log In to Your RossoWin Account</h2><p>If you already have an account, there's no need to register again. Signing in lets you continue playing with your existing balance and access your personal settings.</p><p>To log in to your account:</p><ol><li><p>Open the RossoWin website and click Login at the top of the page.</p></li><li><p>Enter the email address linked to your account.</p></li><li><p>Type in the password you created during registration.</p></li><li><p>Click Login to complete the sign-in process.</p></li></ol><p>Once you've logged in, you can return to your games, check your balance or open your profile settings. We use one personal account for both casino games and sports betting, so you don't need to create a separate profile for the sportsbook.</p><h2>What You Can Do in Your Account After Logging In</h2><p>Your RossoWin account brings together the main features for managing your gaming activity and personal details. You can check your current balance, view financial transactions and follow the status of your withdrawal requests.</p><p>Your profile also contains your account information and verification status. If additional documents are required to confirm your identity, we may notify you during the verification process. Completing KYC is necessary before withdrawing winnings.</p><p>Our casino and sportsbook share the same balance, allowing you to switch between slots and sports betting without transferring funds between separate accounts. Once logged in, you can also return to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-400 underline cursor-pointer\" href=\"https://rossowin-casino.co.uk/bonus/\">available promotions</a>, check tournament terms and view the rewards you've received.</p><h2>Forgotten Your Password or Having Trouble Logging In?</h2><p>If your password isn't working, first check that you've entered the correct email address without any extra spaces. Passwords are case-sensitive, so check your keyboard layout and make sure Caps Lock isn't enabled.</p><p>If you can't remember your password, use the password recovery option in the login window, if available. Follow the instructions to verify your email address and create a new password. Once you've changed it, use your updated details to sign in.</p><p>If the website doesn't accept your correct details or the login page isn't working properly, try the following:</p><ul><li><p>Refresh the login page and enter your details manually.</p></li><li><p>Check your internet connection and try opening the website in another browser.</p></li><li><p>Clear your browser's cookies and cache if the login form fails to load or displays errors.</p></li><li><p>If your access has been restricted following a security check, contact our support team.</p></li></ul><p>We may ask you to verify your identity before restoring access to your account. This helps protect your personal information and funds against unauthorised access. Don't create a new profile to replace a blocked account, as RossoWin allows only one account per player.</p><h2>Account Security and Protection</h2><p>For secure access, use a unique password that you don't use on other websites. Never share your login details with anyone or save your password on shared devices. If you sign in from someone else's computer, always log out when you've finished using your account.</p><p>Only access <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-400 underline cursor-pointer\" href=\"https://rossowin-casino.co.uk/\">RossoWin</a> through the correct website address. Fake login pages may copy our casino's name and appearance to steal personal information. We never ask you to share your password in live chat or send it alongside your identity verification documents.</p><p>During security checks, we may temporarily restrict certain account functions and request additional identity verification. Financial transactions are permitted only through payment methods belonging to the account holder. This rule also applies to withdrawal requests.</p><p>If you notice unfamiliar transactions, changes to your personal details or suspicious activity, change your password and contact our support team. We'll review your report and help you take the appropriate steps to secure your account.</p>",
+      "seoTitle": "RossoWin Casino Login | Sign In & Access Your Account",
+      "seoDescription": "Log in to RossoWin Casino to access your account, check your balance and manage your profile. Find out how to reset your password and sign in securely.",
+      "htmlHead": "<link rel=\"canonical\" href=\"https://rossowin-casino.co.uk/login/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"RossoWin Casino Login | Sign In & Access Your Account\">\n<meta property=\"og:description\" content=\"Log in to RossoWin Casino to access your account, check your balance and manage your profile. Find out how to reset your password and sign in securely.\">\n<meta property=\"og:url\" content=\"https://rossowin-casino.co.uk/login/\">\n<meta property=\"og:site_name\" content= \"RossoWin Casino\">",
       "gptPrompt": "",
       "heroTitle": "RossoWin Casino Login",
-      "heroSubtitle": "",
-      "heroBadge": "",
-      "ctaText": "",
-      "tagline": "",
+      "heroSubtitle": "Secure access to your account, balance and game history",
+      "heroBadge": "Fast & Secure Login",
+      "ctaText": "Log In",
+      "tagline": "Sign in to manage your profile, payments and active bonuses",
       "heroImage": "/uploads/rossowin-login-banner.webp",
       "template": "landing",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
-      "faqTitle": "",
-      "popupText": "🎰 Explore top slots, live casino games and exciting tournaments",
+      "faqTitle": "FAQ",
+      "popupText": "🔐 Log in to RossoWin and access your games & rewards!",
       "popupLogo": "/uploads/rossowin-casino-logo.webp",
       "sections": null,
       "slots": [
@@ -197,16 +197,39 @@
           "logo_alt": "Weekly Bonus"
         }
       ],
-      "faq": [],
+      "faq": [
+        {
+          "answer": "Yes. You can open our website in your mobile browser and sign in using your existing login details. There's no need to create a separate account for your smartphone.",
+          "question": "Can I Log In to RossoWin on My Smartphone?"
+        },
+        {
+          "answer": "No. Once you've recovered access, use the same email address and your new password to sign in. Your existing account remains unchanged.",
+          "question": "Do I Need to Register Again After Changing My Password?"
+        },
+        {
+          "answer": "Additional checks may be required to protect your account or confirm your personal information. In some cases, access to certain features may remain restricted until verification is complete.",
+          "question": "Why Might I Be Asked to Verify My Identity When Logging In?"
+        },
+        {
+          "answer": "You can sign in to your account from different personal devices. However, sharing your login details with another person is not permitted.",
+          "question": "Can I Use the Same Account on Multiple Devices?"
+        },
+        {
+          "answer": "Contact our support team. We may request documents confirming your identity before updating your details or restoring access to your account.",
+          "question": "What Should I Do if I No Longer Have Access to My Registered Email Address?"
+        },
+        {
+          "answer": "Contact our support team to request an account restriction or self-exclusion. We support responsible gambling and help players manage their access to gambling activities.",
+          "question": "How Can I Temporarily Restrict Access to My Account?"
+        }
+      ],
       "globalSlotSetId": null,
       "globalReviewSetId": null,
       "websiteId": 245,
       "createdAt": {},
       "updatedAt": {},
       "globalSlotSet": null,
-      "globalReviewSet": null,
-      "popup_text": "🎰 Explore top slots, live casino games and exciting tournaments",
-      "popup_logo": "/uploads/rossowin-casino-logo.webp"
+      "globalReviewSet": null
     }
   ],
   "faq_schema": {
@@ -473,8 +496,8 @@
       "question": "How Can I Set Gambling Limits or Block My Account?"
     }
   ],
-  "_generated_at": "2026-11-16T11:31:17.795Z",
+  "_generated_at": "2026-11-16T11:37:01.278Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-16T11:31:18.472Z",
-  "_deploy_trigger": "h47yd2"
+  "_last_deploy": "2026-11-16T11:37:01.995Z",
+  "_deploy_trigger": "zr6i4"
 }
