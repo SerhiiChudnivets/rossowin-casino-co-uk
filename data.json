@@ -26,7 +26,7 @@
       "ctaText": "Explore Bonuses",
       "tagline": "€600,000 Lucky Boom • €25,000 Sunday Blast",
       "heroImage": "/uploads/rossowin-bonus-banner.webp",
-      "template": "landing",
+      "template": "minimal",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
@@ -136,7 +136,7 @@
       "ctaText": "Log In",
       "tagline": "Sign in to manage your profile, payments and active bonuses",
       "heroImage": "/uploads/rossowin-login-banner.webp",
-      "template": "landing",
+      "template": "minimal",
       "isHomepage": false,
       "order": 0,
       "lang": "en-GB",
@@ -496,8 +496,8 @@
       "question": "How Can I Set Gambling Limits or Block My Account?"
     }
   ],
-  "_generated_at": "2026-11-16T12:14:56.580Z",
+  "_generated_at": "2026-11-16T12:31:44.335Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-16T12:14:57.224Z",
-  "_deploy_trigger": "yvztqi"
+  "_last_deploy": "2026-11-16T12:31:44.968Z",
+  "_deploy_trigger": "f7m2qq"
 }
